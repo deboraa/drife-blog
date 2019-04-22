@@ -1,0 +1,73 @@
+.navbar{
+    padding-top: 30px
+}
+
+.navbar-brand img{
+    width: 130px;
+}
+
+.main-content{
+    margin-top: 50px
+}
+
+.card{
+    border:none;
+    cursor: pointer;
+}
+
+.card-img-top{
+    border-radius: 0px;
+    height: 150px
+}
+
+.thumb-img{
+    object-fit: cover
+}
+
+.thumb-text{
+    background: black;
+    color: white;
+    min-height: 137px;
+}
+
+.thumb-text .date{
+    font-style: italic
+}
+
+.thumb-text .link-more{
+    color: white;
+    float: right
+}
+
+.tag{
+    background: #f44336;
+    padding: 4px;
+    color: white;
+    font-size: smaller;
+    float: right;
+    position: relative;
+    left: 8px;
+}
+
+.card-tag{
+    border: none;
+    border-bottom: 3px black solid
+    
+}
+
+
+/* footer */
+footer{
+    background-color: #4a4a4a;
+    color: white;
+
+}
+
+footer ul{
+    list-style: none;
+    padding-left: 0px
+}
+
+footer li{
+    margin-top:0.7rem
+}
